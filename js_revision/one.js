@@ -35,3 +35,9 @@ var funexp=function abc(){
 
 // A callback function is a function that you pass as an argument to another function, and the receiving function calls it later when a task is done.
 // helpt to make code asynchronous
+
+
+
+// promise chaining
+
+ 
